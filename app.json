@@ -8,9 +8,9 @@
       "aria",
       "python"
     ],
-    "repository": "https://github.com/ThyViking/magneto-python-aria-1.git",
-    "website": "https://github.com/ThyViking/magneto-python-aria-1/tree/main",
-    "success_url": "https://github.com/ThyViking/magneto-python-aria-1/blob/master/README.md",
+    "repository": "https://github.com/bensgeorge/magneto-python-aria-1.git",
+    "website": "https://github.com/bensgeorge/magneto-python-aria-1/tree/main",
+    "success_url": "https://github.com/bensgeorge/magneto-python-aria-1/blob/master/README.md",
     "stack": "container",
     "env": {
       "ENV": {
