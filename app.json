@@ -8,7 +8,7 @@
       "aria",
       "python"
     ],
-    "repository": "https://github.com/bensgeorge/magneto-python-aria-1.git",
+    "repository": "https://github.com/bensgeorge/magneto-python-aria-1",
     "website": "https://github.com/bensgeorge/magneto-python-aria-1/tree/main",
     "success_url": "https://github.com/bensgeorge/magneto-python-aria-1/blob/master/README.md",
     "stack": "container",
